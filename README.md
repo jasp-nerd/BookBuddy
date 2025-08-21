@@ -1,5 +1,7 @@
 # BookBuddy - Book Recommendation System
 
+<img width="1897" height="993" alt="image" src="https://github.com/user-attachments/assets/228d13fc-62f1-4534-88ff-bb6c9efeb242" />
+
 ## Quick User Guide 📚
 
 **Getting Started:** Enter any User ID and name to sign in (try the demo users!)
