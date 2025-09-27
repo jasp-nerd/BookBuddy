@@ -1,5 +1,14 @@
 # BookBuddy - Book Recommendation System
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![Node.js](https://img.shields.io/badge/node.js-16+-green)
+
+> A digital library web application for managing personal book collections with AI-powered recommendations
+
+🌐 **Live Demo:** [https://bookbuddy.jasper-ai.tech/](https://bookbuddy.jasper-ai.tech/)
+
 <img width="1897" height="993" alt="image" src="https://github.com/user-attachments/assets/228d13fc-62f1-4534-88ff-bb6c9efeb242" />
 
 ## Quick User Guide 📚
